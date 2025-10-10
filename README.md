@@ -36,7 +36,7 @@
 | № | Задание | Ссылка на репозиторий | Текущий |
 |---|---------|----------------------|---------|
 | 1 | Задание 1 | [Репозиторий 1](https://github.com/rgwaporj13/my-new-project) | ⬜ |
-| 2 | Задание 2 | [Репозиторий 2](https://github.com/Teacher001-top/Task-002) | ⬜ |
+| 2 | Задание 2 | [Репозиторий 2](https://github.com/rgwaporj13/new-project) | ⬜ |
 | 3 | Задание 3 | [Репозиторий 3](https://github.com/rgwaporj13/my-first-project) | ✅ |
 | 4 | Задание 4 | [Репозиторий 4](https://github.com/rgwaporj13/task-2.1) | ⬜ |
 | 5 | Задание 5 | [Репозиторий 5]() | ⬜ |
